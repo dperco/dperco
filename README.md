@@ -16,8 +16,10 @@ Aqui encontraran  los distintos desarrollos o proyectos realizados por mi , en  
 
 Estoy trabajando en desarrollos particulares  con Javascript - Typescript , a pedido
 
-Estoy aprendiendo Wordpress y Angular 
+Tambien  hay algunos proyectos de robotica y IOT 
 
-Tengo mucha experiencia en manejo de grupos ,resolucion de problemas , manejo de proyectos por objetivos 
+Hoy  estoy aprendiendo y practicando  con   Wordpress y Angular y Ruby  ...
+
+
 
 
