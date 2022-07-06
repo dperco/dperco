@@ -8,7 +8,12 @@
 
 
 
+Soy un apasioando de la tecnologia , aprendi en Henry  ,lo que es un programador  full stack , y eso me abrio las puertas  al conocimiento ,de cosas que jamas pense que existian ,  yo vengo de otro mundo ,la tecnologia de las telecomunicaciones .
+Pero Henry ,me lleva  a  lo que mas me gusta , el software  ,..,si  a eso le sumo  la róbotica que estoy terminando , .., se completa el circulo .
+Y si ademas ,puedo  transmitir todos estos  conocimientos , bueno  que mas  pedir .
 
+Tecnologias que manejo : Javascript -Typescript - React -Node.js - Next.js - Mongodb - Sequellize - Express - Redux- Html- Css - Postgress- C++ 
+                         Postman - Nodemailer - Passport -VisualStudio - 
 
 
 
